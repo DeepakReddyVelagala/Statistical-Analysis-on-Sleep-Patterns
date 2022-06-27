@@ -27,3 +27,10 @@ To identify various factors which affect our sleep and the way they affect us.
 As our interest is to analyse natural sleeping patterns we perform an observational study.
 
 We used *sampling* more specifically **volunteer sampling** for collection of data by sending mail to every student at IITH but only a few of them volunteered to respond. To make as many people respond as possible we also send remainders. We managed to collect data from 132 people, the data is diverse with data from all years of UG, PG and PhD students.
+
+group:
+|           Name       |             Name       |      Name      |
+| ---|---|---|
+|Prajwaldeep Kamble    | Krishna Teja Chilukuri | Nikhil Kongara |
+|Karthik Kurugodu      | VKS Deepak Reddy       | Tata Sai Manoj |
+|Venkata Raghav Ambati | Anurag Gopi            | Sumanth NR     |
